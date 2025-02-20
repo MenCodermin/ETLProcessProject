@@ -18,7 +18,7 @@
 *.zip
 *.tar.gz
 *.csv
-*.env
+.env
 
 # IDE-specific files
 /.idea/
