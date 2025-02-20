@@ -20,6 +20,6 @@ data = {
 df_large = pd.DataFrame(data)
 
 # Save to CSV file
-df_large.to_csv("data.csv", index=False)
+df_large.to_csv(".csv", index=False)
 
-print("CSV file 'data.csv' has been created successfully!")
+print("CSV file '.csv' has been created successfully!")
